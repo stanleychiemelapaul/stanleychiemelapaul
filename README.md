@@ -55,19 +55,6 @@ coming soon
 
 *Note: The blog post list is dynamic. You can use a GitHub Action to automatically update it.*
 
----
-
-### 💼 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/your-repo-link">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanleychiemelapaul&repo=your-repo-name&theme=radical" />
-  </a>
-  <a href="https://github.com/your-repo-link">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stanleychiemelapaul&repo=your-repo-name&theme=radical" />
-  </a>
-  <!-- Add more project links as needed -->
-</p>
 
 ---
 
@@ -82,12 +69,5 @@ coming soon
 - LinkedIn: [Stanley Chiemela Paul](https://www.linkedin.com/in/stanleychiemelapaul/)
 - Twitter: [Your Twitter Profile](https://twitter.com/stanleycpaul)
 - Portfolio: [Your Portfolio](https://stanleypaul.netlify.app)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- WhatSApp: [Let's talk](https://wa.link/vehb8a)
 
----
-
-### ⚙️ GitHub Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=stanleychiemelapaul&theme=github" alt="GitHub Activity Graph" />
-</p>
