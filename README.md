@@ -16,7 +16,7 @@ I am a passionate software engineer with a focus on designing, developing, and m
 
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1QMKz1AzPtAjpYqoXwsiOZwtX4oDFnGAz/view?usp=sharing" alt="Services I offer" />
+  <img src="https://drive.google.com/file/d/1QMKz1AzPtAjpYqoXwsiOZwtX4oDFnGAz/view?pli=1" alt="Services I offer" />
 </p>
 
 - 🌱 I’m currently learning **Java and C#**
@@ -58,8 +58,6 @@ I am a passionate software engineer with a focus on designing, developing, and m
 <!-- BLOG-POST-LIST:START -->
 coming soon
 <!-- BLOG-POST-LIST:END -->
-
-*Note: The blog post list is dynamic. You can use a GitHub Action to automatically update it.*
 
 
 ---
