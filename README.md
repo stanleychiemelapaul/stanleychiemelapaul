@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley Chiemela Paul</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Tech Enthusiast | ICT Professional</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stanleychiemelapaul/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -68,6 +68,6 @@ coming soon
 
 - LinkedIn: [Stanley Chiemela Paul](https://www.linkedin.com/in/stanleychiemelapaul/)
 - Twitter: [Your Twitter Profile](https://twitter.com/stanleycpaul)
-- Portfolio: [Your Portfolio](https://stanleypaul.netlify.app)
+- Portfolio: [Software Portfolio](https://stanleypaul.netlify.app)
 - WhatSApp: [Let's talk](https://wa.link/vehb8a)
 
