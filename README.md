@@ -16,7 +16,7 @@ I am a passionate software engineer with a focus on designing, developing, and m
 
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1QMKz1AzPtAjpYqoXwsiOZwtX4oDFnGAz/view?pli=1" alt="Services I offer" />
+  <img src="https://drive.google.com/uc?export=view&id=1QMKz1AzPtAjpYqoXwsiOZwtX4oDFnGAz" alt="Services I offer" />
 </p>
 
 - 🌱 I’m currently learning **Java and C#**
