@@ -12,13 +12,19 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate software engineer with a focus on designing, developing, and maintaining robust software applications across various platforms, including web, mobile, and desktop. My work spans the entire software development lifecycle, from conceptualization to deployment and beyond.
+I am a passionate software engineer with a focus on designing, developing, and maintaining robust software applications across various platforms, including web, mobile, and desktop. My work spans the entire software development lifecycle, from conceptualization to deployment and beyond. I offer a wide range of strategies to deliver the perfect solution for you. No matter the timeline or scale, I’ve got it covered. Let’s embark on this journey and transform your vision into reality.
+
+
+<p align="center">
+  <img src="[https://your-image-url.com/your-image.jpg](https://drive.google.com/file/d/1QMKz1AzPtAjpYqoXwsiOZwtX4oDFnGAz/view?usp=sharing)" alt="Services I offer" />
+</p>
 
 - 🌱 I’m currently learning **Java and C#**
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, React Native, Nodejs, Python, Flask, MySQL, and DevOps**
-- 📫 How to reach me: **stanleychiemelapaul@gmail.com**
 - ⚡ Fun fact: **I love enriching music**
+
+
 
 ---
 
